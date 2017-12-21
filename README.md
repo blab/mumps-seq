@@ -2,7 +2,7 @@
 
 #### Louise Moncla<sup>1</sup>, Allison Black<sup>1,2</sup>, Trevor Bedford<sup>1
 
-<sup>1<sup>Department of Epidemiology, University of Washington, Seattle, WA, USA, <sup>2<sup>Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA
+<sup>1</sup>Department of Epidemiology, University of Washington, Seattle, WA, USA, <sup>2</sup>Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA
 
 
 ## Overview of Illumina sequencing pipeline for mumps viruses
