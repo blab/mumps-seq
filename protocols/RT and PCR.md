@@ -15,7 +15,7 @@ Reverse transcription is performed with the Protoscript II first strand synthesi
 We used primal scheme (http://primal.zibraproject.org/) to design overlapping, 1500 bp amplicons spanning the entirety of the mumps virus genome. Amplicons overlap by ~ 100 bp. Primer sequences are listed in the table below. 
 
 **Amplicon** | **Forward/Reverse** | **sequence** | **pool**
---- | --- | --- 
+--- | --- | --- | ---
 mumps 1.5kb 1F| Forward | ACCAAGGGGAAAATGAAGATGGG | pool 1 
 mumps 1.5kb 1R| Reverse | TAACGGCTGTGCTCTAAAGTCAT| pool 1
 mumps 1.5kb 2 F| Forward |TTGTTGACAGGCTTGCAAGAGG| pool 2
