@@ -62,6 +62,7 @@ cycling conditons:
 
 30 cycles:
 98 °C 15 seconds
+
 67 °C 5 minutes
 
 10 °C forever
