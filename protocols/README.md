@@ -1,4 +1,4 @@
-# Experimental protocols for sequencing full mumps genome from buccal swabs
+# Experimental protocols for sequencing full mumps genomes from buccal swabs
 
 #### Louise Moncla<sup>1</sup>, Allison Black<sup>1,2</sup>
 
