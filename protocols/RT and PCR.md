@@ -56,14 +56,13 @@ primer pool 1 or 2| 2.5 µl
 cDNA | 5 ul
 **total reaction volume** | 25 µl
 
-cycling conditons:
+**cycling conditons:**
 
 98 °C 30 seconds
 
 30 cycles:
-98 °C 15 seconds
-
-67 °C 5 minutes
+* 98 °C 15 seconds
+* 67 °C 5 minutes
 
 10 °C forever
 
