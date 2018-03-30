@@ -1,10 +1,3 @@
-# Data
-
-#### Louise Moncla<sup>1</sup>, Allison Black<sup>1,2</sup>, Trevor Bedford<sup>1
-
-<sup>1</sup>Department of Epidemiology, University of Washington, Seattle, WA, USA, <sup>2</sup>Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA
-
-
 ## Consensus genomes 
 We are releasing draft genome sequences of mumps virus that were sequenced from PCR-positive diagnostic specimens collected by the Washington State Department of Health. We intend to use these sequence data to conduct an investigation into mumps virus transmission in Washington state, outbreak seeding and spread, and epidemiological drivers of transmission. We are releasing these genomes in the hope that they are useful for those individuals involved in the public health response to mumps and to other groups working to understand mumps virus transmission and evolution.
 
