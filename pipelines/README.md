@@ -13,10 +13,12 @@
 
 
 ### Trimming
-Trimming was performed with [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic ) to remove Illumina adapter sequencing and ends of reads with low quality scores. Reads were trimmed in 5 bp windows to a quality score of Q30, and trimmed reads with length < 100 bp were discarded. 
+Trimming was performed with [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic ) to remove Illumina adapter sequencing and ends of reads with low quality scores. Reads were trimmed in 5 bp windows to a quality score of Q30, and trimmed reads with length < 100 bp were discarded, using the following command: `java -jar Trimmomatic-0.36/trimmomatic-0.36.jar SE input.fastq output.fastq ILLUMINACLIP:Nextera_XT_adapter.fa:1:30:10 SLIDINGWINDOW:5:30 MINLEN:100`
 
 ### Mapping 
-We used a [genome](https://www.ncbi.nlm.nih.gov/nuccore/MF965301) from the mumps outbreak in Massachusetts as a reference sequence. We mapped our trimmed reads to that reference using [bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml). The mapping (bam) file was manually inspected in [Geneious](https://www.geneious.com/). 
+We used a [genome](https://www.ncbi.nlm.nih.gov/nuccore/MF965301) from the mumps outbreak in Massachusetts as a reference sequence. We performed a local mapping of our trimmed reads to that reference using [bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml), with the following command:` bowtie2 -x reference_sequence.fasta -U read1.trimmed.fastq,read2.trimmed.fastq -S output.sam --local`
+
+ The mapping (bam) file was manually inspected in [Geneious](https://www.geneious.com/). 
 
 ### Consensus sequence calling
 Consensus sequences were called in Geneious, with nucleotide sites with <100x coverage called as Ns. Consensus genomes were exported in fasta format. 
