@@ -16,7 +16,7 @@ Library preparation was performed with the Nextera XT DNA Library Prep kit (Illu
 
 6. To each tube, add 7.5 µl of NPM. 
 
-7. Being carefµl not to touch the caps, add 2.5 µl of the i5 indices to each tube. 
+7. Being careful not to touch the caps, add 2.5 µl of the i5 indices to each tube. 
 
 8. Add 2.5 µl of the i7 indices to each tube. Pipette up and down 5 times to mix. 
 
@@ -24,19 +24,14 @@ Library preparation was performed with the Nextera XT DNA Library Prep kit (Illu
 
 Ensure that the thermocycler lid is heated during the incubation. (total volume = 25 µl)
 
-72°C for 3 minutes
-
-95°C for 30 seconds
-
-
-12 cycles of:
-95°C for 10 seconds
-55°C for 30 seconds
-72°C for 30 seconds
-
-
-72°C for 5 minutes
-Hold at 10°C
+  1. 72°C for 3 minutes
+  2. 95°C for 30 seconds
+  3. 12 cycles of:
+      1. 95°C for 10 seconds
+      2. 55°C for 30 seconds
+      3. 72°C for 30 seconds
+  4. 72°C for 5 minutes
+  5. Hold at 10°C
 
 * After the PCR step is complete, reaction products can be stored at 4°C for up to 2 days. 
 
