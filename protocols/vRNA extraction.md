@@ -7,7 +7,7 @@ This protocol follows the published protocol for vRNA extraction with the QiAmp 
 2. Centrifuge at 5,000 x g for 5 minutes at 4°C to pellet host cells. After spin is complete, transfer supernatant to a clean tube and discard tube with pellet. 
 3. Centrifuge supernatant for 90 minutes at 4°C at maximum speed (14,000 rpm) to concentrate virions in the lower portion of the supernatant. 
 
-** About 20 minutes before the spin completes, prepare the buffer AVL with carrier RNA. For each sample you are extracting, you will need 0.56 ml of buffer AVL + 5.6 µl of carrier RNA suspended in buffer AVE. The first time you suspend carrier RNA in buffer AVE, aliquot into tubes and store at -20°C to avoid mµltiple freeze-thaws. 
+** About 20 minutes before the spin completes, prepare the buffer AVL with carrier RNA. For each sample you are extracting, you will need 0.56 ml of buffer AVL + 5.6 µl of carrier RNA suspended in buffer AVE. The first time you suspend carrier RNA in buffer AVE, aliquot into tubes and store at -20°C to avoid multiple freeze-thaws. 
 
 4. Remove ~300 µl of liquid from the top of the supernatant to leave 140-200 µl of total supernatant. Pipet up and down to resuspend viral pellet. 
 
@@ -18,7 +18,7 @@ This protocol follows directly from the manufacturer's recommended protocol.
 
 6. Incubate at room temperature for 10 min. After 10 minutes, lysis is complete and the sample is no longer infectious. 
 
-7. Add 560 μl of ethanol (96–100%) to the sample, mix by pµlse-vortexing for 15 seconds, and spin down.  
+7. Add 560 μl of ethanol (96–100%) to the sample, mix by pulse-vortexing for 15 seconds, and spin down.  
 
 8. Transfer 630 μl of the solution from step 5 to the QIAamp Mini column (in a 2 ml collection tube) without wetting the rim. Close the cap, and centrifuge at 6000 x g (8000 rpm) for 1 min. Place the QIAamp Mini column into a clean 2 ml collection tube, and discard the tube containing the filtrate. 
 
