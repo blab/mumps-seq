@@ -1,6 +1,6 @@
 # Library preparation
 
-Library preparation was performed with the Nextera XT DNA Library Prep kit (Illumina, catalogue # FC-131-1096), following the manufacturer's recommended protocol, but with reagent volumes halved for each step. 
+Library preparation was performed with the Nextera XT DNA Library Prep kit (Illumina, catalogue # FC-131-1096), following the manufacturer's recommended protocol. For sequencing runs 1-3, we halved the reagent volumes for each step. For sequencing run 4, we had quite a few samples with high Ct values and a few samples that were old (from 2006), so we used full reaction volumes. The protocol below is for the half reaction volumes. To perform the full reaction (as specified in the Illumina recommended protocol), double the volumes and concentrations for each step. You can also follow this [protocol](https://support.illumina.com/content/dam/illumina-support/documents/documentation/chemistry_documentation/samplepreps_nextera/nextera-xt/nextera-xt-library-prep-reference-guide-15031942-02.pdf) from the prep kit manual.
 
 ### Pooling amplicons from pool 1 and pool 2 
 1. For each sample, pool 1 and pool 2 amplicons were combined in equimolar concentrations to a total of 0.5 ng in 2.5 µl in a PCR strip tube. This generally required diluting the cleaned PCR product, re-quantifying, and using the diluted product for pooling. All reactions were brought up to 2.5 µl with water. 

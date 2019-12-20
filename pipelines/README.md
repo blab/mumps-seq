@@ -21,10 +21,10 @@ We used a [genome](https://www.ncbi.nlm.nih.gov/nuccore/MF965301) from the mumps
  The mapping (bam) file was manually inspected in [Geneious](https://www.geneious.com/). 
 
 ### Consensus sequence calling
-Consensus sequences were called in Geneious, with nucleotide sites with <100x coverage called as Ns. Consensus genomes were exported in fasta format. 
+Consensus sequences were called in Geneious, with nucleotide sites with <20x coverage called as Ns. Consensus genomes were exported in fasta format. 
 
 ### Remapping
-To avoid issues with mapping to improper reference sequences, we then remapped each sample's fastq files to its own consensus sequence. These bam files were again manually inspected in Geneious, and a final consensus sequence was called. Those consensus genomes for which we acquired at least 80% full-genome coverage are available [here](https://github.com/blab/mumps-seq/tree/master/data/consensus-genomes) as fasta files. 
+To avoid issues with mapping to improper reference sequences, we then remapped each sample's fastq files to its own consensus sequence. These bam files were again manually inspected in Geneious, and a final consensus sequence was called. Those consensus genomes for which we acquired at least 50% full-genome coverage are available [here](https://github.com/blab/mumps-seq/tree/master/data/consensus-genomes) as fasta files. 
 
 
 

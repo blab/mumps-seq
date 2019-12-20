@@ -1,5 +1,7 @@
 # vRNA extraction 
 
+For sequencing runs 1-3, we extracted viral RNA from buccal swabs manually, using the protocol described below. For sequencing run 4, we had access to a Roche Magnapure RNA extraction robot, which we used. Both methods produced good quality RNA. For the manual extraction, we have provided the protocol below. 
+
 This protocol follows the published protocol for vRNA extraction with the QiAmp viral RNA mini kit (Qiagen, catalogue # 52906). Most mumps samples are collected as buccal (cheek) swabs, which are likely to contain host cells and proteins. To remove host cells and maximize the amount of material that we could extract, we added 2 additional spin steps to the beginning of the standard protocol. The first spin pellets out and removes host cells. The second spin concentrates virions at the bottom of the tube. Excess supernatant is removed and the virions are resuspended in the ~140-200 ul necessary for the start of the protocol, concentrating the sample. All parts of this protocol should be carried out in a clean, pre-PCR hood that has been wiped down with bleach and ethanol before use. Until particle lysis is complete (step 5), there are infectious virions in the sample. All pipette tips and tubes should be discarded and soaked in 10% bleach for 1 hour to sterilize. 
 
 ### Concentrate vRNA and remove host cells
