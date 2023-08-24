@@ -4,8 +4,10 @@
 
 <sup>1</sup>Department of Epidemiology, University of Washington, Seattle, WA, USA, <sup>2</sup>Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA
 
-* [protocols](https://github.com/blab/mumps-seq/tree/master/protocols) for Illumina sequencing full genomes from buccal swabs
-* [bioinformatic pipeline](https://github.com/blab/mumps-seq/tree/master/pipelines) for generating consensus genome sequences from raw Illumina fastq files
-* [data](https://github.com/blab/mumps-seq/tree/master/data) 
+* [Protocols](/protocols) for Illumina sequencing full genomes from buccal swabs
+* [Bioinformatic pipeline](/pipelines) for generating consensus genome sequences from raw Illumina fastq files
+* [Data](/data) 
 
 
+### Citation
+[Moncla et al. 2021. Repeated introductions and intensive community transmission fueled a mumps virus outbreak in Washington State. eLife 10: e66448.](https://doi.org/10.7554/eLife.66448)
